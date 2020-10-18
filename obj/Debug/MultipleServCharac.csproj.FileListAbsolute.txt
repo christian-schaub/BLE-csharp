@@ -1,0 +1,8 @@
+C:\Users\uni\Desktop\BA\code\c#\MultipleServCharac\obj\Debug\MultipleServCharac.csprojResolveAssemblyReference.cache
+C:\Users\uni\Desktop\BA\code\c#\MultipleServCharac\obj\Debug\MultipleServCharac.Properties.Resources.resources
+C:\Users\uni\Desktop\BA\code\c#\MultipleServCharac\obj\Debug\MultipleServCharac.csproj.GenerateResource.Cache
+C:\Users\uni\Desktop\BA\code\c#\MultipleServCharac\obj\Debug\MultipleServCharac.Form1.resources
+C:\Users\uni\Desktop\BA\code\c#\MultipleServCharac\bin\Debug\MultipleServCharac.exe
+C:\Users\uni\Desktop\BA\code\c#\MultipleServCharac\bin\Debug\MultipleServCharac.pdb
+C:\Users\uni\Desktop\BA\code\c#\MultipleServCharac\obj\Debug\MultipleServCharac.exe
+C:\Users\uni\Desktop\BA\code\c#\MultipleServCharac\obj\Debug\MultipleServCharac.pdb
